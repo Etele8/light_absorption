@@ -1,9 +1,17 @@
 #folders
 /regi
 /szamitas
+
+# extensions
+*.xlsx
 *.xls
 *.txt
 *.csv
+*.ProcSpec
+*.docx
+*.png
+*.jnt
+*.lnk
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
