@@ -1,7 +1,9 @@
 #folders
 /regi
 /szamitas
-.xls
+*.xls
+*.txt
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
